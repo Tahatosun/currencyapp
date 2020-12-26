@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-### ScreenShot
+### Screenshot
 -![alt](https://github.com/Tahatosun/currencyapp/blob/master/screenshot.PNG?raw=true) 
 ## Getting Started
 
