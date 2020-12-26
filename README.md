@@ -1,8 +1,9 @@
 # currencyapp
 
 A new Flutter project.
-![alt](https://github.com/Tahatosun/currencyapp/blob/master/screenshot.PNG?raw=true) 
 
+### ScreenShot
+-![alt](https://github.com/Tahatosun/currencyapp/blob/master/screenshot.PNG?raw=true) 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
